@@ -24,7 +24,7 @@ const HeroBanner = () => {
                   digital presence with the latest technologies, frameworks, and
                   APIs.
                 </p>
-                <a href="portfolio" className="btn-white mt-4 fw-bold">
+                <a href="https://indtech-portfolio-page.vercel.app/" className="btn-white mt-4 fw-bold">
                   <span>Talk about Your Project</span>
                   <i className="icon icon-arrow"></i>
                 </a>
